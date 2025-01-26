@@ -9,3 +9,5 @@ validate xml file content
 Generate test reports
 Link between error message and its location in the tree
 Adaptive error display window size
+
+The following figure expose the architecture that I am trying to elaborate and the part that I choose for this task is in blue
